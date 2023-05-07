@@ -1,4 +1,4 @@
-# Building a Great GitHub Profile
+# Building a Great GitHub Profile c
 
 ## Learning Goals
 
